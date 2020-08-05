@@ -1,0 +1,6 @@
+127.0.0.1 - - [05/Aug/2020:11:12:52 +0900] "GET / HTTP/1.1" 404 750
+0:0:0:0:0:0:0:1 - - [05/Aug/2020:11:12:53 +0900] "GET /testArduino/index.jsp HTTP/1.1" 200 405
+0:0:0:0:0:0:0:1 - - [05/Aug/2020:11:12:53 +0900] "GET /favicon.ico HTTP/1.1" 404 761
+0:0:0:0:0:0:0:1 - - [05/Aug/2020:11:13:06 +0900] "GET /testArduino/views/part2_DHT11_Control.jsp HTTP/1.1" 500 2640
+0:0:0:0:0:0:0:1 - - [05/Aug/2020:11:13:50 +0900] "GET /testArduino/index.jsp HTTP/1.1" 200 405
+0:0:0:0:0:0:0:1 - - [05/Aug/2020:11:13:51 +0900] "GET /testArduino/views/part2_DHT11_Control.jsp HTTP/1.1" 200 1273

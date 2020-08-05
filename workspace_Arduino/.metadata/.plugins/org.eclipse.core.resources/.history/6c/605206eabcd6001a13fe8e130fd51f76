@@ -1,0 +1,40 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<h1>아두이노 온습도&ajax 연결하기</h1>
+	<table>
+		<thead>
+			<tr>
+				<th>시간</th>
+				<th>습도</th>
+				<th>온도</th>
+			</tr>
+		</thead>
+		<tbody>
+		</tbody>
+	</table>
+	<br>
+	<button type="button" id="checkDHT">온습도 확인하기</button>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+</body>
+</html>

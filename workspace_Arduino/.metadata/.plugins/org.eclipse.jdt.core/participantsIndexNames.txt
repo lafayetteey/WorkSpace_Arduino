@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+C:\workspace\workspace_6Arduino\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\380246643.index
+\testArduino\src
+C:\workspace\workspace_6Arduino\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1851485114.index
+\testArduino\src
